@@ -10,12 +10,12 @@ Gem::Specification.new do |gem|
   gem.version  = GEM_CONFIG['project']['version']
   gem.author   = GEM_CONFIG['project']['owner']
   gem.homepage = GEM_CONFIG['project']['repo']
-  gem.summary  = 'a Jekyll theme for publishing code documentation to GitHub pages'
+  gem.summary  = 'Jekyll theme'
   gem.license  = 'MIT'
 
   gem.metadata = {
     'plugin_type'       => 'theme',
-    'documentation_uri' => 'https://pixeldroid.com/programming-pages/',
+    'documentation_uri' => 'https://www.runningit.cn/',
     'source_code_uri'   => GEM_CONFIG['project']['repo'],
     'bug_tracker_uri'   => "#{GEM_CONFIG['project']['repo']}/issues",
   }

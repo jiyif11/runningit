@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: 欢迎
 ---
 
 # {{ page.title }}

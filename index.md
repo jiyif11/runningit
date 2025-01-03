@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 欢迎
+title: 软银科技
 ---
 
 # {{ page.title }}

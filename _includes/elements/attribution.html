@@ -7,10 +7,11 @@
     <a class="larger text" rel="license" href="tel:{{ site.project.tel }}" title="联系电话">
     {% include icon.liquid id='cc-cc' %}{% include icon.liquid id='cc-by' %}
     </a>
-    </div>
-    
-    <div>
+  </div>
+
+  <div>
     <strong>详细订购以及整机定制化请联系：</strong>
+    {{ site.project.tel }}
     <br>
     <a class="project-repo" href="tel:{{ site.project.tel }}">{{ site.project.tel }}</a>
   </div>
@@ -19,7 +20,7 @@
 
 <tr>
   <td class="smaller text">
-  <strong>{{ site.project.name }}</strong> {{ "now" | date: "%Y" }} <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; top</p>
+  <strong>软银科技</strong> {{ "now" | date: "%Y" }} (<a href="{{ layout.theme_url }}" title="a jekyll theme for publishing code documentation to GitHub pages">{{ layout.theme_url }}</a>)
   </td>
 </tr>
 

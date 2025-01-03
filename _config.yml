@@ -10,7 +10,7 @@ collections:
     permalink: "/:collection/:path/"
     title: 异构处理器
     tab-order: 1
-switch:
+  switch:
     output: true
     permalink: "/:collection/:path/"
     title: 可编程交换芯片

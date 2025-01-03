@@ -35,7 +35,7 @@ order: 1
 | 最大容量     | 8TB    |
 | <span>{% include icon.liquid id='memory' %} <b>存储单元</b></span> |   |
 |----------|:---------:|
-| PCIe 通道      | 最大 128 个 PCIe Gen5 lanes<br>* 每个 DIE 支持 4 个 PCIe 控制器<br>* 支持 1x16，2x8，4x4 模式<br>* 最大速率支持 32GT/s<br>* 兼容 CCIX2.0，CXL2.0 接     |
+| PCIe 通道      | 最大 128 个 PCIe Gen5 lanes<br>每个 DIE 支持 4 个 PCIe 控制器<br>支持 1x16，2x8，4x4 模式<br>最大速率支持 32GT/s<br>兼容 CCIX2.0，CXL2.0 接     |
 | 中断资源     | 全中断虚拟化（GICv4），支持 TrustZone    |
 | IO 虚拟化     | SMMUv3.2    |
 | <span>{% include icon.liquid id='awesome-cog' %} <b>环境适应性</b></span> |   |

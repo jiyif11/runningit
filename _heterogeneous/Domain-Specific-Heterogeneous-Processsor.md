@@ -13,6 +13,7 @@ order: 1
 的计算性能，高核数，高主频，高带宽，高算力，IO 丰富等特点，为企业级应用及数据中
 心提供出色的基础设施支撑，可针对云计算，云原生，大数据，大规模计算，云游戏等应
 用场景提供出色的总体拥有成本（TCO），轻松应对计算密集型工作负载.
+{:.ui.info.message}
 
 # 技术规格
 
@@ -25,7 +26,7 @@ order: 1
 | L1-Cache     | 64KB L1-I Cache/Core,64 L1-D Cache/Core    |
 | L2-Cache     | 1MB/Core    |
 | L2-Cache     | 最大 128M    |
-
+{:.ui.collapsing.striped.table}
 
 | Column A | Column B  |
 |----------|:---------:|

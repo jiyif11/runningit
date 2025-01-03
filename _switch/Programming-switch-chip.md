@@ -26,12 +26,6 @@ order: 1
 | <span>{% include icon.liquid id='memory' %} <b>网络接口</b></span> |   |
 |----------|:---------:|
 | 100  对  SerDes，其中 96 对用于网络接口，4 对用于侧挂，96 对 Serdes  最高均支持  53.125Gbps      |      |
-| <span>{% include icon.liquid id='awesome-cog' %} <b>OAM 性能 </b></span> |   |
-|----------|:---------:|
-| 工作结温范围      | 0°C-100°C     |
-| 电源工作范围     | 8CPU：0.75～0.95V，DDR5：1.1V，PLL：1.2V，SerDes：0.8V/1.2V    |
-| 封装     | 4890-pin 2.5D LGA，56.5mm x 77.5mm    |
-| 功耗     | 300W TDP    |
 | <span>{% include icon.liquid id='bootstrap-wrench' %} <b>OAM 性能</b></span> |   |
 |----------|:---------:|
 | 支持以太网  OA      |     |

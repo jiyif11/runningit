@@ -11,8 +11,6 @@
 
   <div>
     <strong>详细订购以及整机定制化请联系：</strong>
-    {{ site.project.tel }}
-    <br>
     <a class="project-repo" href="tel:{{ site.project.tel }}">{{ site.project.tel }}</a>
   </div>
   </td>
@@ -20,7 +18,7 @@
 
 <tr>
   <td class="smaller text">
-  <strong>软银科技</strong> {{ "now" | date: "%Y" }} (<a href="{{ layout.theme_url }}" title="a jekyll theme for publishing code documentation to GitHub pages">{{ layout.theme_url }}</a>)
+  <strong>软银科技</strong> {{ "now" | date: "%Y" }} (<a href="{{ site.project.repo }}">{{ site.project.repo }}</a>)
   </td>
 </tr>
 

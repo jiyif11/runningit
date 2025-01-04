@@ -10,7 +10,7 @@ order: 1.1
 
 
 
-<span>{% include icon.liquid id='awesome-bars' %} <b>**关键技术**:</b></span>
+<span>{% include icon.liquid id='awesome-bars' %} <b>**关键技术**</b></span>
 {:.larger.text}
 
 - 支持 `2.4T@128B`  线速能力

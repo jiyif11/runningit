@@ -6,15 +6,15 @@ order: 4
 ---
 # {{ page.title }}
 
-![layouts](640.webp "展示图"){:.ui.image}
+![sample image](640.webp "展示图")
 
 传统的高轨卫星通信在为地面网络提供补充覆盖方面发挥着重要作用，尤其是在偏远地区和特定场景下。然而，由于卫星链路固有的长距离传输，导致较高的延迟和相对有限的带宽，限制了用户体验。为了解决这些问题，本文提出一种在卫星地面站配置NTN（Non-Terrestrial Network，非地面网络）设备进行基站原生分流的创新方案，并详细阐述其应用场景。
 
 新兴的starlink低轨卫星可以提供300M，40ms的低延时，实测如下图：（国产低轨卫星测试数据暂无。）
 {:.larger.text}
 
-![layouts](1.webp "速度测试"){:.ui.image}
-![layouts](2.webp "统计数据"){:.ui.image}
+![sample image](1.webp "速度测试")
+![sample image](2.webp "统计数据")
 
 > 一、现有卫星地面站连接基站方案及局限性
 
@@ -38,7 +38,7 @@ order: 4
 
 **架构示意图：**
 
-![layouts](3.webp "架构"){:.ui.image}
+![sample image](3.webp "架构")
 
 > 三、方案优势及性能提升
 

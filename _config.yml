@@ -5,10 +5,10 @@ project:
   tel: 19951785199
   repo: https://www.runningit.cn
 collections:
-  heterogeneous:
+  Products:
     output: true
     permalink: "/:collection/:path/"
-    title: 异构处理器
+    title: 相关产品
     tab-order: 1
   switch:
     output: true

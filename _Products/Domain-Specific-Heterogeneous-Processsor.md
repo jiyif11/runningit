@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 总览
+title: 软银 ARM 多核处理器
 description: Domain Specific Heterogeneous Processsor
 
 order: 1

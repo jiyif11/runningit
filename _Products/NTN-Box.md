@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 卫星地面站配置NTN设备实现基站原生分流及应用场景
+title: NTN设备基站原生分流
 description: NTN Equipment
 order: 4
 ---
-# {{ page.title }}
+# 卫星地面站配置NTN设备实现基站原生分流及应用场景
 
 ![sample image](640.webp "展示图")
 

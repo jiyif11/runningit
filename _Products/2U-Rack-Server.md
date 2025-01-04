@@ -1,3 +1,4 @@
+---
 layout: page
 title: 2U  机架服务器
 description: 2U Rack Server

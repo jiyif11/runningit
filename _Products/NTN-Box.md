@@ -1,5 +1,5 @@
 ---
-layout: example
+layout: page
 title: 卫星地面站配置NTN设备实现基站原生分流及应用场景
 description: NTN Equipment
 order: 4

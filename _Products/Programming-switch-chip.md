@@ -23,7 +23,7 @@ order: 2
 | 支持包长范围为  `64 Bytes~12KBytes`      |     |
 | <span>{% include icon.liquid id='windows-globe-wire-title' %} <b>网络接口</b></span> |   |
 |----------|:---------:|
-| 100  对  SerDes，其中 96 对用于网络接口，4 对用于侧挂，96 对 Serdes  最高均支持  `53.125Gbps`      |      |
+| 100  对  SerDes，其中 96 对用于网络接口，4 对用于侧挂，96 对 Serdes  最高均支持  `53.125Gbps`            |
 | <span>{% include icon.liquid id='gauge-100-title' %} <b>OAM 性能</b></span> |   |
 |----------|:---------:|
 | 支持以太网  OA      |     |

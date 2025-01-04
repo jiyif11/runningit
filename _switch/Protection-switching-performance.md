@@ -6,12 +6,8 @@ order: 1.5
 ---
 
 
-# {{ page.title }}
+# {% include icon.liquid id='windows-shield-title' %}{{ page.title }}
 
-
-
-<span>{% include icon.liquid id='windows-shield-title' %} <b>保护倒换性能</b></span>
-{:.larger.text}
 
 - 支持  12K  保护组
 - 支持线性和环网保护

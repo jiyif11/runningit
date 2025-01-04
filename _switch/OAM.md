@@ -6,12 +6,8 @@ order: 1.4
 ---
 
 
-# {{ page.title }}
+# {% include icon.liquid id='gauge-100-title' %}{{ page.title }}
 
-
-
-<span>{% include icon.liquid id='gauge-100-title' %} <b>OAM 性能</b></span>
-{:.larger.text}
 
 - 支持以太网  OAM
 - 支持  MPLS-TP OAM 

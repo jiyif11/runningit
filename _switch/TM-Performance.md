@@ -6,12 +6,8 @@ order: 1.6
 ---
 
 
-# {{ page.title }}
+# {% include icon.liquid id='awesome-cog' %}{{ page.title }}
 
-
-
-<span>{% include icon.liquid id='awesome-cog' %} <b>TM 性能</b></span>
-{:.larger.text}
 
 - 支持  `128k`  队列
 - 支持整形范围为  `0/64kbps~400Gbps`

@@ -6,12 +6,8 @@ order: 1.1
 ---
 
 
-# {{ page.title }}
+# {% include icon.liquid id='awesome-bars' %}{{ page.title }}
 
-
-
-<span>{% include icon.liquid id='awesome-bars' %} <b>**关键技术**</b></span>
-{:.larger.text}
 
 - 支持 `2.4T@128B`  线速能力
 - 支持 2~4 层业务报文的解析和转发处理能力;能根据新增业务场景识别4层及更深层次的报文内容，并正确进行处理和转发

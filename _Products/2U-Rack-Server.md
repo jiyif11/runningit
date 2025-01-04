@@ -29,7 +29,8 @@ order: 3
     - 散热系统优化 PID 算法，支持风扇智能转速调节，噪音优化控制
     - 产品整体为无铅设计，绿色环保
 5.  技术规格
-{:.ui.attached.secondary.segment}{:.ui.attached.secondary.segment}
+{:.ui.attached.secondary.segment}
+
 | <span>{% include icon.liquid id='cpu' %} <b>主机特性</b></span> |   |
 |----------|:---------:|
 | 形态      | U2    |

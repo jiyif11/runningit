@@ -2,11 +2,11 @@
 layout: example
 title: 卫星地面站配置NTN设备实现基站原生分流及应用场景
 description: NTN Equipment
-thumb: 640.webp
 order: 4
 ---
 # {{ page.title }}
 
+![layouts](640.webp "展示图"){:.ui.image}
 
 传统的高轨卫星通信在为地面网络提供补充覆盖方面发挥着重要作用，尤其是在偏远地区和特定场景下。然而，由于卫星链路固有的长距离传输，导致较高的延迟和相对有限的带宽，限制了用户体验。为了解决这些问题，本文提出一种在卫星地面站配置NTN（Non-Terrestrial Network，非地面网络）设备进行基站原生分流的创新方案，并详细阐述其应用场景。
 

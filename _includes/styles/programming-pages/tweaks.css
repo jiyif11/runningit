@@ -219,7 +219,7 @@ sup:target::before {
   padding: .25em;
 }
 .ui.message {
-  max-width: 45rem;
+  max-width: ;
 }
 .ui.message svg.icon {
   top: .125em;

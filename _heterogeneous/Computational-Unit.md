@@ -6,7 +6,7 @@ order: 1.1
 ---
 
 
-# {{ page.title }}
+# {% include icon.liquid id='cpu' %}{{ page.title }}
 
 
 |----------|:---------:|

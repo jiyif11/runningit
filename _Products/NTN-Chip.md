@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NTN多模芯片
+title: NTN芯片
 description: 开物星空与璞钛科技联合发布NTN非地面网络专用芯片及样机，引领“星际矿联、空间智能”新时代
 order: 5
 ---

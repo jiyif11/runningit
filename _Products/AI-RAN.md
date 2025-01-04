@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NTN多模芯片
+title: AI-RAN
 description: 开物星空与璞钛科技基于空间智能的“AI-RAN”系统在金顶矿场试运行成功
 order: 6
 ---

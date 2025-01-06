@@ -16,5 +16,5 @@ title: 软银科技
 
 为客户提供最优质的产品和服务。期待与您携手，共同开创智能科技的未来。
 
-<div style="position: relative; width: 100%; height: 100%; padding-bottom: 100%;">
+<div>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1854538441&bvid=BV1os421A7nd&cid=1549150046&p=1" scrolling="off" border="0" frameborder="off" framespacing="0" allowfullscreen="false"></iframe></div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 软银 ARM 多核处理器
+title: 软银 AI 多核处理器
 description: Domain Specific Heterogeneous Processsor
 
 order: 1
@@ -8,7 +8,7 @@ order: 1
 
 # {{ page.title }}
 
-> 软银 ARM 多核处理器是软银信息科技南京有限公司自主研发的基于  ARMv9.0-A  架构
+> 软银 AI 多核处理器是软银信息科技南京有限公司自主研发的基于  ARMv9.0-A  架构
 的领域定制异构处理器（Domain Specific Heterogeneous Processsor），具有业内领先
 的计算性能，高核数，高主频，高带宽，高算力，IO 丰富等特点，为企业级应用及数据中
 心提供出色的基础设施支撑，可针对云计算，云原生，大数据，大规模计算，云游戏等应

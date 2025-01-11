@@ -2,7 +2,7 @@
 layout: page
 title: NTN应急通信产品
 description: 软银科技和世纪卫星联合推出超大规模NTN应急通信产品
-order: 6
+order: 7
 ---
 
 # 软银科技和世纪卫星联合推出超大规模NTN应急通信产品

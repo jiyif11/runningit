@@ -20,7 +20,7 @@ title: 软银科技
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://www.bilibili.com/blackboard/html5mobileplayer.html?isOutside=true&aid=1854538441&bvid=BV1os421A7nd&cid=1549150046&p=1&danmaku=0" scrolling="off" border="0" frameborder="off" framespacing="0" allowfullscreen="false"></iframe>
 </div>
 
-## 新年加倍，珠峰起飞！中友会同仁服务器焕新升级，统统加倍！
+' ## 新年加倍，珠峰起飞！中友会同仁服务器焕新升级，统统加倍！'
 
 ### 放眼全球，ARM架构已成大势所趋！ 
 

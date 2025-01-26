@@ -9,12 +9,12 @@ collections:
     output: true
     permalink: "/:collection/:path/"
     title: 相关产品
-    tab-order: 1
-  switch:
+    tab-order: 2
+  News:
     output: true
     permalink: "/:collection/:path/"
-    title: 可编程交换芯片
-    tab-order: 2
+    title: 前沿动态
+    tab-order: 1
 highlighter: rouge
 kramdown:
   footnote_backlink: "⮌"

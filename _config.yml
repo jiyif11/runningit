@@ -8,7 +8,7 @@ collections:
   Products:
     output: true
     permalink: "/:collection/:path/"
-    title: 相关产品
+    title: 公司产品
     tab-order: 2
   News:
     output: true

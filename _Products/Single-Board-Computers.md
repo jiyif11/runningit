@@ -32,9 +32,9 @@ order: 10
 | AI网络     | 8个物理以太网，支持GE或者XGE，支持RDMA， RoCE协议<br>–	Serdes连接PHY芯片，出电口<br>–	Serdes连光模块，出光纤口<br>–	Serdes通过背板互联<br>支持速率组合一<br>–	2 x 100GE(PFC/Normal)<br>–	2 x 50GE(PFC/Normal)<br>–	2 x 40GE(PFC/Normal)<br>–	2 x 25GE(PFC/Normal)<br>–	2 x 10GE(PFC/Normal)<br>–	2 x GE(Normal)<br>支持速率组合二<br>–	4 x 50GE(PFC/Normal)<br>–	4 x 25GE(PFC/Normal)<br>–	4 x 10GE(PFC/Normal)<br>–	4 x GE(Normal)<br>支持速率组合三<br>–	8 x 25GE(PFC/Normal)<br>–	8 x 10GE(PFC/Normal)<br>–	4 x GE(Normal)+4 x 25GE(Normal)/4 x 10GE(Normal) /4 x GE(Normal)    |
 | PCIe     | <br>每个 DIE 支持 4 个 PCIe 控制器<br>支持 1x16，2x8，4x4 模式<br>最大速率支持 32GT/s<br>支持P-N极性翻转<br>最大 128 个 PCIe Gen5 lanes<br>兼容 CCIX2.0，CXL2.0 接口   |
 | 存储    | 提供1个X8 SAS3.0控制器，向下兼容SAS2.0和SAS1.0<br>–	支持SAS 3.0，向下兼容SAS2.0 和SAS1.0<br>–	支持SATA3.0，向下兼容SATA2.0 和SATA1.0<br>SAS支持12G/6G/3G/1.5G 四种速率，SATA 支持6G/3G/1.5G 速率，同时可以实现速率的自协商<br>支持连接SAS Expander 扩展更多磁盘<br>提供1 个X2 SATA 控制器<br>–	支持SATA 3.0，向下兼容SATA 2.5<br>–	支持AHCI 1.3，向下兼容 AHCI 1.2<br>–	支持6G/3G/1.5G 速率自协商<br>–	支持直连两个SATA 盘<br>支持NOR Flash控制器（BIOS）支持单线、双线和四线模式，最大频率50MHz     |
-| USB     |  '1*USB3.0+2*USB2.0'   |
-| 串口     | '2*UART'（两线模式）   |
-| 其他接口      | 	'6*I2C'（1个支持IPMB)<br>'2*MDIO'<br>'1*LPC'<br>'1*SGPIO'<br>'11*GPIO'<br>'1*JTAG'（可复用为GPIO）     |
+| USB     |  `1*USB3.0+2*USB2.0`   |
+| 串口     | `2*UART`（两线模式）   |
+| 其他接口      | 	`6*I2C`（1个支持IPMB)<br>`2*MDIO`<br>`1*LPC`<br>`1*SGPIO`<br>`11*GPIO`<br>`1*JTAG`（可复用为GPIO）     |
 | 管理维护    |  提供IMU管理单元<br>–	支持状态收集，平台健康监测<br>–	工作频率800MHz<br>–	支持BootRom安全启动<br>提供CPLD管理模块<br>–	支持看门狗，支持电压监测<br>–	支持CPU内部温度，板载温度监测<br>–	支持过温告警指示，错误指示等<br>–	支持带外升级固件  |
 |  加速功能    | 集成多个硬件加速器，提供比软件方式更高的性能，同时降低PCU负载<br>支持ZIP 进行压缩和加压缩加速<br>支持加解密及认证引擎<br>数据搬移加速引擎<br>深度学习加速引擎    |
 |  推荐工作环境    | 存储温度：25℃<br>工作温度：0℃~55℃<br>温度变化每小时小于20℃<br>相对湿度：40% RH~60% RH非凝结<br>湿度变化每小时小于20% RH   |

@@ -23,7 +23,7 @@ order: 10
 
 | 指标项 | 规格  |
 |----------|:---------:|
-| 尺寸     | * 135mm*165mm<br>* 背面限高2mm，正面限高4.5mm  |
+| 尺寸     |  ●	135mm*165mm<br> * 背面限高2mm，正面限高4.5mm  |
 | 连接器     |  688PIN阵列连接器，配高5mm   |
 | cpu     | ARMv9.0-A架构，64 Neoverse N2核，3.0 GHz    |
 | <span>{% include icon.liquid id='awesome-television' %} <b>系统资源</b></span> |   |

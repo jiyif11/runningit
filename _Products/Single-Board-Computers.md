@@ -23,18 +23,15 @@ order: 10
 
 | 指标项 | 规格  |
 |----------|:---------:|
-| 尺寸     |  ●	135mm*165mm<br>●	背面限高2mm，正面限高4.5mm  |
+| 尺寸     |  135mm*165mm<br>	背面限高2mm，正面限高4.5mm  |
 | 连接器     |  688PIN阵列连接器，配高5mm   |
 | cpu     | ARMv9.0-A架构，64 Neoverse N2核，3.0 GHz    |
-| <span>{% include icon.liquid id='awesome-television' %} <b>系统资源</b></span> |   |
-|----------|:---------:|
-| 内存类型      | DDR5 80-bit ECC RDIMM     |
-| 最大内存通道数     | 8    |
-| 最大速率     | 5200MT/s @1DPC，4800MT/s @2DPC    |
-| 最大内存槽数     | 3.0GHz    |
-| 最大容量     | 8TB    |
-| <span>{% include icon.liquid id='memory' %} <b>存储单元</b></span> |   |
-|----------|:---------:|
+| 性能指标      | SpecCPU2017 Int_Rate：560（单路）     |
+| 内存     | 通道DDR5，最大256GByte，支持ECC    |
+| 功耗     |  最小功耗：100W<br>典型功耗：200W<br>最大功耗：250W   |
+| AI网络     | 8个物理以太网，支持GE或者XGE，支持RDMA， RoCE协议<br>–	Serdes连接PHY芯片，出电口<br>–	Serdes连光模块，出光纤口<br>–	Serdes通过背板互联<br>支持速率组合一<br>–	2 x 100GE(PFC/Normal)<br>–	2 x 50GE(PFC/Normal)<br>–	2 x 40GE(PFC/Normal)<br>–	2 x 25GE(PFC/Normal)<br>–	2 x 10GE(PFC/Normal)<br>–	2 x GE(Normal)<br>支持速率组合二<br>–	4 x 50GE(PFC/Normal)<br>–	4 x 25GE(PFC/Normal)<br>–	4 x 10GE(PFC/Normal)<br>–	4 x GE(Normal)<br>支持速率组合三<br>–	8 x 25GE(PFC/Normal)<br>–	8 x 10GE(PFC/Normal)<br>–	4 x GE(Normal)+4 x 25GE(Normal)/4 x 10GE(Normal) /4 x GE(Normal)    |
+| PCIe     | <br>每个 DIE 支持 4 个 PCIe 控制器<br>支持 1x16，2x8，4x4 模式<br>最大速率支持 32GT/s<br>支持P-N极性翻转<br>最大 128 个 PCIe Gen5 lanes<br>兼容 CCIX2.0，CXL2.0 接口
+    |
 | PCIe 通道      | 最大 128 个 PCIe Gen5 lanes<br>- 每个 DIE 支持 4 个 PCIe 控制器<br>- 支持 1x16，2x8，4x4 模式<br>- 最大速率支持 32GT/s<br>- 兼容 CCIX2.0，CXL2.0 接     |
 | 中断资源     | 全中断虚拟化（GICv4），支持 TrustZone    |
 | IO 虚拟化     | SMMUv3.2    |

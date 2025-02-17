@@ -32,7 +32,7 @@ order: 3
 ## 技术规格
 
 | <span>{% include icon.liquid id='cpu' %} <b>主机特性</b></span> |   |
-|----------|:---------:|
+|----------|---------|
 | 形态      | U2    |
 | 适配机柜     | 19  英 寸 ≧1000mm  深 机     |
 | 处理器      | 支持 1~2 颗软银系列高性能 ARM v9.0 N2 内核处理器，每颗最大支持 128 个内核，可作为领域定制异构处理器（Domain Specific Heterogeneous Processsor）    |
@@ -42,19 +42,15 @@ order: 3
 | 显卡     | 集成显示控制器，最大分辨率  1920x1080    |
 | 系统管理     | WEB  中文管理界面，支持  `IPMI2.0` `SNMP` `SOL` `RedFish` `KVM Over IP`    |
 | <span>{% include icon.liquid id='memory' %} <b>IO 模块 </b></span> |   |
-|----------|:---------:|
 | PCIe 插槽      | 最大可扩展 12 个 PCIe 插槽（含 2 个 OCP 3.0 插槽），支持 `32Gbps` 接口速率     |
 | 外部设备接口     | 4  个  USB  接口（后部  2  个  USB3.0，  前部  1  个  USB3.0+1  个  USB2.0）<br>2 个  VGA  接口（前端  1  个，后端  1  个）<br>1 个 3.5MM  串口<br>1 个  IPMI GE  电口    |
 | <span>{% include icon.liquid id='awesome-codepen' %} <b>物理特性</b></span> |   |
-|----------|:---------:|
-| 电源      | 2 个 CRPS 标准电源，支持热插拔，支持 1+1 冗余铂金电源，提供 550W~2000W 多种规格<br>支持多种供电制式：110/220VAC、-48VDC，240VDC、336VDC  供电
-    |
+| 电源      | 2 个 CRPS 标准电源，支持热插拔，支持 1+1 冗余铂金电源，提供 550W~2000W 多种规格<br>支持多种供电制式：110/220VAC、-48VDC，240VDC、336VDC  供电    |
 | 环境条件     | 工作温度：  5℃～40℃<br>存储温度：-40℃～65℃<br>工作湿度：  8％～90％  RH，无凝露<br>运输存储湿度：  5％～95％  RH，无凝露<br>海拔高度：3000  米    |
 | 系统尺寸      | 19  英寸机架式，`432mm x 87.6mm x 780mm`（宽  x  高  x  深），不含侧耳、导轨    |
 | 风扇      | 4个可插拔冗余中置风扇，支持动态智能风扇调速的散热系统    |
 | 重量      | 满配置不超过  40kg  （不含导轨）    |
 | 相关认证       | CCC、CQC、CE、RoHS  等    |
 | <span>{% include icon.liquid id='awesome-television' %} <b>操作系统</b></span> |   |
-|----------|:---------:|
 | 兼容操作系统      | CGSL，Suse，Redhat，Centos，麒麟，红旗等操作系统<br>`注：具体支持的操作系统版本，可参考服务器兼容性列表`     |
 {:.ui.collapsing.striped.table}

@@ -4,3 +4,32 @@
  * this file is included after all other stye sheet files
  * you can add rules here that will take precedence over any already defined by the theme
  */
+ .attention-text {
+    font-size: 18px;
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff0000, #33a1ff, #000000, #5f610d, #3366ff, #cc33ff);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: gradient 50s ease infinite, glow 1.5s ease-in-out infinite;
+    text-shadow: 0 0 8px rgba(255,255,255,0.3);
+    display: inline-block;
+    padding: 0px 0px;
+    transform: scale(1);
+    transition: transform 0.3s;
+}
+
+.attention-text:hover {
+    transform: scale(1.05);
+}
+
+@keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes glow {
+    0%, 100% { text-shadow: 0 0 8px rgba(255,255,255,0.3); }
+    50% { text-shadow: 0 0 15px rgba(255,255,255,0.7), 0 0 20px rgba(255,255,255,0.5); }
+}

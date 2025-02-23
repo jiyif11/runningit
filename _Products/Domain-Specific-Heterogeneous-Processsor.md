@@ -30,7 +30,7 @@ order: 1
 | 内存类型      | DDR5 80-bit ECC RDIMM     |
 | 最大内存通道数     | 8    |
 | 最大速率     | 5200MT/s @1DPC，4800MT/s @2DPC    |
-| 最大内存槽数     | 3.0GHz    |
+| 最大内存槽数     | 16    |
 | 最大容量     | 8TB    |
 | <span>{% include icon.liquid id='memory' %} <b>存储单元</b></span> |   |
 | PCIe 通道      | 最大 128 个 PCIe Gen5 lanes<br>- 每个 DIE 支持 4 个 PCIe 控制器<br>- 支持 1x16，2x8，4x4 模式<br>- 最大速率支持 32GT/s<br>- 兼容 CCIX2.0，CXL2.0 接     |

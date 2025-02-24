@@ -36,6 +36,8 @@ NX 标卡可广泛用于公有云、私有云、边缘云以及智算中心的�
 | SRIOV 512VF/2PF  |  吞吐量 400G<br>DPDK 转发性能 100Mpps<br>时延<10us | IPSEC 200G<br>TLS 200Gb<r>国密 SM 200G |  QP 数量 512K<br>RDMA 转发性能 100Mpps  |
 {:.ui.collapsing.striped.table}
 
+---
+
 ## 规格特性
 
 | <b>型号名称</b> | <b>NX E310</b> |    | <b>NX E312</b> |
@@ -50,6 +52,8 @@ NX 标卡可广泛用于公有云、私有云、边缘云以及智算中心的�
 |----------|----------|----------|----------|
 | 功耗 | 21W |  | 26W |
 {:.ui.collapsing.striped.table}
+
+---
 
 ## 关键功能
 

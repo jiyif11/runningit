@@ -3,7 +3,7 @@ layout: page
 title: AI 服务器
 description: 2U Rack Server
 
-order: 3
+order: 4
 ---
 # {{ page.title }}
 

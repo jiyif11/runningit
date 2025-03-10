@@ -34,14 +34,6 @@ order: 13
 
 | Product Description | Unit | Qty | Price | Total  |
 |----------|---------|---------|---------|---------|
-| Hardware Cost     | | | | 40,000.00  |
-| Starlink Standard V4 G Terminal<br>(Delivery in AP exclusive China )<br>(一带一路直送，不含中国大陆，运费另计)  | 1 set | 50 | 800.00 | 40,000.00  |
-{:.ui.collapsing.striped.table}
-
----
-
-| Product Description | Unit | Qty | Price | Total  |
-|----------|---------|---------|---------|---------|
 | **Option 2 - Monthly Service Fee for 50GB for 50 sets of Starlink Terminals**     | | | | **20,000.00**  |
 | Starlink Mobility Priority Access Data Allowance -<br>
 50GB Bundle<br>50 sets * US$400 per month = US$20,000 per month 3 months deposit US$60,000 + 1 month service fee of US$20,000 = US$80,000 payable in advance (Traffic exceeding 50GB per terminal will be charged US$6 per additional GB, deductible from the deposit month)  | 1 mth | 1 | 20,000.00 | 20,000.00  |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sonic交换机
-description: Starlink International Roaming
+description: Splitter, Sonic switch
 order: 14
 ---
 

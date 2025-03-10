@@ -35,8 +35,7 @@ order: 13
 | Product Description | Unit | Qty | Price | Total  |
 |----------|---------|---------|---------|---------|
 | **Option 2 - Monthly Service Fee for 50GB for 50 sets of Starlink Terminals**     | | | | **20,000.00**  |
-| Starlink Mobility Priority Access Data Allowance -<br>
-50GB Bundle<br>50 sets * US$400 per month = US$20,000 per month 3 months deposit US$60,000 + 1 month service fee of US$20,000 = US$80,000 payable in advance<br> (Traffic exceeding 50GB per terminal will be charged US$6 per additional GB, deductible from the deposit month)  | 1 mth | 1 | 20,000.00 | 20,000.00  |
+| Starlink Mobility Priority Access Data Allowance -<br>50GB Bundle<br>50 sets * US$400 per month = US$20,000 per month 3 months deposit US$60,000 + 1 month service fee of US$20,000 = US$80,000 payable in advance<br> (Traffic exceeding 50GB per terminal will be charged US$6 per additional GB, deductible from the deposit month)  | 1 mth | 1 | 20,000.00 | 20,000.00  |
 | Starlink 服务费基于移动价格计划，每月 300 美元50GB。超过 50GB 的流量每增加 1GB 收费 6 美元，超额部分从押金扣取，扣完业务关停<br>首笔付款 = 3 个月押金 + 1 个月服务费 = 80,000 美元，总计 = 50套硬件 + 3 个月押金 + 1 个月服务费 = 80,000 美元  |  |  |  |   |
 | **Option2**  |  |  | **ToTal (USD)** | **120,000.00**  |
 {:.ui.collapsing.striped.table}

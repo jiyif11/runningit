@@ -10,7 +10,7 @@ order: 14
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我司采用我司自研芯片为行业用户提供一系列分流器及交换机（预装sonic）产品，覆盖接入、汇聚等不同层次的应用场景，通过集群部署的方式为企业网络流量监控提供一体化解决方案。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;随着企业运营信息化、数字化的发展， 企业网络基础设施、数据存储设备、以及数字化应用系统等都已成为企业的关键资产，如何监 管这些资产的安全成为支撑企业运营的重要内容。APM（应用性能 管理）、NPM（网络性能管理）、IDS（入侵监测洗系统）、WAF（web 应用防火墙）、数据库访问审计、业务内容审计等多种安全分析系统 通过对网络流量的实时分析，可以洞察企业在信息化数字化运营过程 中存在的各种风险。网络分流器是一种在完全不影响网络运行基础上，通过远程镜像或线路分光方式对网络流量进行全流量汇聚引流，为上 述安全分析系统提供完整、实时、灵活的网络流量接入的最主要手段。<br>
 
-<img src="image1.png" wwidth="30%"> <img src="image2.png" wwidth="30%"> <img src="image2.png" wwidth="30%">
+<img src="image1.png" width="30%"> <img src="image2.png" width="30%"> <img src="image2.png" width="30%">
 
 ## 产品形态
 

@@ -15,7 +15,7 @@ collections:
     permalink: "/:collection/:path/"
     title: 连接产品
     tab-order: 3
- esthesia:
+  esthesia:
     output: true
     permalink: "/:collection/:path/"
     title: 感知产品

@@ -6,7 +6,7 @@ order: 7
 ---
 # 揭秘全球首颗矿用AI卫星—“开物星座·试验星” | 新技术引领矿山智慧新升级
 
-![sample image](https://www.runningit.cn/Products/NTN-Chip/640.gif "展示图")
+![sample image](640.gif "展示图")
 
 <div style="position: relative; padding: 0px 0px;">
 <iframe style="width: 960px; height: 540px; left: 0; top: 0;" src="f10002.mp4" sandbox="" scrolling="off" border="0" frameborder="0" framespacing="0" allowfullscreen="true"></iframe>

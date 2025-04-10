@@ -59,5 +59,5 @@ DPU 标卡可广泛用于公有云、私有云、边缘云以及智算中心的�
 
 | <b>IO 功能</b> | <b>网络功能</b> | <b>RDMA</b> | <b>安全加速</b> | <b>HPC</b> | <b>运维管理</b> |
 |----------|----------|----------|----------|----------|----------|
-| SRIOV<br>PF/VF 的流量统计<br>网口 Bonding | Checksum 卸载<br>egmentation 卸载<br>Vlan 卸载<br>QinQ 卸载<br>数据包头修改卸载<br>Jumbo Frame<br>GSO/GRO<br>RSS 卸载<br>QoS/HQoS<br>基础带宽和最大带宽<br>队列动态可配<br>限速1588 时钟<br>组播模式<br>混杂模式 | READ/WRITE/SEND<br>SRQ<br>设备端口包数量及状态统计<br>QP 状态追踪<br>通信模式 RC<br>通信模式 UD<br>重传方式 GO-BACK-N<br>PFC<br>ECN<br>DCQCN<br>自定义 RTT 算法<br>PCC<br>QOS | ACL<br>IPSEC 卸载<br>TLS | GPU Direct RDMA<br>PU Direct Storage | 支持网卡自检<br>支持网卡固件升级<br>支持预启动执行环境（PXE） |
+| ▪ SRIOV 1kVF /8PF<br>▪ PF/VF 的流量统计<br>▪ 网口 Bonding | Checksum 卸载<br>egmentation 卸载<br>Vlan 卸载<br>QinQ 卸载<br>数据包头修改卸载<br>Jumbo Frame<br>GSO/GRO<br>RSS 卸载<br>QoS/HQoS<br>基础带宽和最大带宽<br>队列动态可配<br>限速1588 时钟<br>组播模式<br>混杂模式 | READ/WRITE/SEND<br>SRQ<br>设备端口包数量及状态统计<br>QP 状态追踪<br>通信模式 RC<br>通信模式 UD<br>重传方式 GO-BACK-N<br>PFC<br>ECN<br>DCQCN<br>自定义 RTT 算法<br>PCC<br>QOS | ACL<br>IPSEC 卸载<br>TLS | GPU Direct RDMA<br>PU Direct Storage | 支持网卡自检<br>支持网卡固件升级<br>支持预启动执行环境（PXE） |
 {:.ui.collapsing.striped.table}

@@ -7,6 +7,18 @@ order: 11
 ---
 # {{ page.title }} **671B**
 
+> AI革命：被远超预期的颠覆性浪潮
+
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://www.bilibili.com/blackboard/html5mobileplayer.html?isOutside=true&aid=1854538441&bvid=BV1BtVBzREAo&cid=90047428240&p=1&danmaku=0" scrolling="off" border="0" frameborder="off" framespacing="0" allowfullscreen="false"></iframe>
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前谷歌CEO埃里克·施密特，在国会听证会上说：AI革命，被低估了。不是被高估，是远远被低估了。<br>
+“这场AI的到来，我们没人准备好。”你以为它只是ChatGPT？不，它其实是一个前所未有的推理系统，是可以自己规划、自己思考、自己编程的新智能体。今天，我们正在训练AI程序员，未来，它们将替代传统软件工程师。接着，是AI数学家，水平对标顶尖研究生，而训练时间，只需要一年。<br>
+这不是未来，这是现在。
+而这场变革，刚刚开始。<br>
+它的代价呢？前所未有的算力需求，巨量的能源消耗。传统服务器，可能根本撑不住。我们正在建造一种新的生命形态，一个能推理、能学习、能创造的智能系统。问题是，我们连它的终点都看不见。深表同意，大众对这波AI浪潮的认知太落后了，整个社会都没做好准备。
+
 > 顺势而发：解企业拥抱 DeepSeek 之急
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;软银科技再次重磅推出独角兽一体机，以“满血版本地化开箱即用”为核心理念，为企业提供大模型从私有化部署到场景化落地的全栈解决方案，助力企业无缝接入 DeepSeek 技术生态，打造自主可控的智能竞争力和卓越推理能力。<br>

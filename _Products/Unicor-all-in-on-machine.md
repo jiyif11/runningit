@@ -9,7 +9,7 @@ order: 11
 
 > AI革命：被远超预期的颠覆性浪潮
 
-<div style="position: relative; padding: 10% 35%;">
+<div style="position: relative; padding: 20% 35%;">
 <iframe style="position: absolute; width: 60%; height: 100%; left: 0; top: 0;" src="https://www.bilibili.com/blackboard/html5mobileplayer.html?isOutside=true&aid=114453832075434&bvid=BV1BtVBzREAo&cid=29800726887&p=1&danmaku=0" scrolling="off" border="0" frameborder="off" framespacing="0" allowfullscreen="false"></iframe>
 </div>
 <br>

@@ -10,7 +10,7 @@ order: 11
 > AI革命：被远超预期的颠覆性浪潮
 
 <div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?isOutside=true&aid=114453832075434&bvid=BV1BtVBzREAo&cid=29800726887&p=1&danmaku=0" scrolling="off" border="0" frameborder="off" framespacing="0" allowfullscreen="false"></iframe>
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://www.bilibili.com/blackboard/html5mobileplayer.html?isOutside=true&aid=114453832075434&bvid=BV1BtVBzREAo&cid=29800726887&p=1&danmaku=0" scrolling="off" border="0" frameborder="off" framespacing="0" allowfullscreen="false"></iframe>
 </div>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前谷歌CEO埃里克·施密特，在国会听证会上说：AI革命，被低估了。不是被高估，是远远被低估了。<br>

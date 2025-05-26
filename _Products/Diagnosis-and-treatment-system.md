@@ -10,7 +10,7 @@ order: 2
 
 <iframe
     src="https://chatbot.opendc.cn:8087/chatbot/yUk7ifUtzx3hPjTt"
-    style="width: 100%; height: 100%; min-height: 1700px"
+    style="width: 100%; height: 100%; min-height: 1000px"
     frameborder="0"
     allow="microphone">  
 </iframe>

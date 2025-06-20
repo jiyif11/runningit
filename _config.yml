@@ -8,17 +8,17 @@ collections:
   Products:
     output: true
     permalink: "/:collection/:path/"
-    title: 智能产品
+    title: 智能
     tab-order: 2
   Link:
     output: true
     permalink: "/:collection/:path/"
-    title: 连接产品
+    title: 连接
     tab-order: 3
   esthesia:
     output: true
     permalink: "/:collection/:path/"
-    title: 感知产品
+    title: 感知
     tab-order: 4
   News:
     output: true

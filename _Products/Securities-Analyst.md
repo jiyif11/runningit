@@ -10,7 +10,5 @@ order: 1.4
 
 <iframe 
     src="https://chatbot.opendc.cn:8089/#/" 
-    class="iframe-container"
-    title="Chatbot OpenDC"
     allowfullscreen>
 </iframe>

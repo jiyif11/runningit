@@ -9,6 +9,10 @@ order: 1.4
 # {{ page.title }}
 
 <iframe 
-    src="https://chatbot.opendc.cn:8089/#/" 
-    allowfullscreen>
+  src="https://chatbot.opendc.cn:8089/#/" 
+  width="800" 
+  height="600" 
+  frameborder="0"
+  style="border: 1px solid #ddd;"
+  allowfullscreen>
 </iframe>

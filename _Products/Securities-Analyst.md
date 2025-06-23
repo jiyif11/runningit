@@ -10,5 +10,7 @@ order: 1.4
 
 <iframe
     src="https://chatbot.opendc.cn:8089/#/"
-    style="width: 100%; height: 100%; min-height: 800px"
+    style="width: 100%; height: 100%; min-height: 1000px"
+    frameborder="0"
+    allow="microphone">  
 </iframe>

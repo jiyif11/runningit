@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 证券评估智能体
-description: Contract Review Agent
+description: Securities Valuation Agent
 
 order: 1.4
 ---

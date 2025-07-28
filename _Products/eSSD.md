@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 高性能企业级SSD
+title: 企业级AI SSD
 description: Enterprise class SSD
 
 order: 12
@@ -8,7 +8,7 @@ order: 12
 
 # {{ page.title }}
 
-<span>{% include icon.liquid id='check-circle' %} <b>产品简介</b></span><br> STARSmart技术，优化QoS效果，延长模组寿命 国产化大容量，支持32TB单盘容量 -40°~85°工业级宽温支持<br>
+<span>{% include icon.liquid id='check-circle' %} <b>产品简介</b></span><br> 业界第一款AI SSD， ssd控制器内置8TOPS NPU，支持AI加速，支持存算一体AI。STARSmart技术，优化QoS效果，延长模组寿命 国产化大容量，支持32TB单盘容量 -40°~85°工业级宽温支持<br>
 {:.ui.success.message}
 
 

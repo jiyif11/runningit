@@ -37,9 +37,9 @@ order: 12
 - 产品尺寸： 100.00×70.00×15.00(mm)（标准U.2形态）<br>
 - 167.65(Max) ×56.15×16.7(mm) （AIC形态）
 
-### 【NVMe特性】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;### 【QoS特性】
+### 【NVMe特性】
 
-- 支持NVMe 2.0协议和厂商自定义命令集&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 支持神经网络单元加速数据采样
+- 支持NVMe 2.0协议和厂商自定义命令集
 - 支持双端口（Dual Port）
 - 支持MI管理接口（MI）
 - 支持控制器内存管理(CMB)

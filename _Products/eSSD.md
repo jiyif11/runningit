@@ -32,7 +32,7 @@ order: 12
 ###### 上述性能数据均以8TB容量点为例；<br>
 ###### QoS和延时为4KB随机工作负载，QD=1，稳态情况下表现
 
-![sample image](Picture.png "展示图")<br>
+![sample image](Picture.png "展示图")<br>![sample image](0.png "展示图")<br>
 
 - 产品尺寸： 100.00×70.00×15.00(mm)（标准U.2形态）<br>
 - 167.65(Max) ×56.15×16.7(mm) （AIC形态）

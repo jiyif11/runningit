@@ -9,6 +9,7 @@ order: 3
 
 #### 在数据中心和AI计算场景中，英伟达的ConnectX-7网卡现在真的是一卡难求，而且也是价格不菲。
 
+![layouts](bluefield-connectx-7-2c50-d-2x.jpeg "onnectx-7"){:.ui.image}
 
 > ConnectX-7网卡的核心参数如下：
 

@@ -23,7 +23,7 @@ order: 3
 | 操作系统支持  |  Linux (RHEL、Ubuntu)、Windows、VMware ESXi、Kubernetes 等  |
 {:.ui.collapsing.striped.table}
 
-我们就推荐一个国产的替代卡，XPU-316网卡，ConnectX-7有的功能，XPU-316也基本都支持，不仅价格要便宜很多，而且国内拿货也非常方便。
+我们就推荐一个国产的替代卡，DPU-CX7PT网卡，ConnectX-7有的功能，DPU-CX7PT也基本都支持，不仅价格要便宜很多，而且国内拿货也非常方便。
 {:.ui.success.message}
 
 ---

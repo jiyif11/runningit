@@ -43,7 +43,7 @@ order: 3
 
 |  <b>IO 接口</b> |  <b>网络</b> | <b>安全</b> | <b>RDMA</b>  |
 |----------|----------|----------|----------|
-| SRIOV 512VF/2PF  |  吞吐量 400G<br>DPDK 转发性能 100Mpps<br>时延<10us | IPSEC 200G<br>TLS 200Gb<r>国密 SM 200G |  QP 数量 512K<br>RDMA 转发性能 100Mpps  |
+| SRIOV 512VF/2PF<br>(2x200GE)  |  吞吐量 400G<br>时延<10us | IPSEC<br>TLS <br>国密 SM |  QP 数量 512K<br>RDMA 转发性能 100Mpps<br>时延<5us |
 {:.ui.collapsing.striped.table}
 
 ---

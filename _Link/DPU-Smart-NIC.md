@@ -30,7 +30,7 @@ order: 3
 
 ## 产品规格
 
-![layouts](image2.png "DPU E12"){:.ui.image}
+![layouts](image2.png "DPU-CX7PT"){:.ui.image}
 
 ### DPU-CX7PT 网卡
     - 尺寸：半高半长

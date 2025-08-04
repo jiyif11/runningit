@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 国产200G智能网卡
+title: 英伟达 200G/400G一卡难求，国产上市平替
 description: DPU Smart NIC
 
 order: 3
@@ -33,9 +33,10 @@ order: 3
 ![layouts](image2.png "DPU-CX7PT"){:.ui.image}
 
 ### DPU-CX7PT 网卡
-    - 尺寸：半高半长
-    - 网络接口：2x100GbE/2x200GbE
-    - 主机接口：PCIe5.0X16
+
+- 尺寸：半高半长
+- 网络接口：2x100GbE/2x200GbE
+- 主机接口：PCIe5.0X16
 
 #### DPU-CX7PT 网卡支持 2x200G 网络接口，提供最大 400Gbps 网络吞吐量，时延<10us；支持 IPSEC/TLS，以及AES/SM4 算法和国密算法，大幅提升数据中心的安全性；支持高性能 RDMA，同时还开放了可编程拥塞控制算法平台，帮助客户根据业务类型设计和应用适合的拥塞控制算法，提升网络端到端可靠性。<br>DPU-CX7PT 网卡具有良好的兼容性，支持 Linux、CGSL、欧拉、龙蜥等操作系统，兼容 X86 及 ARM CPU。DPU-CX7PT 为标准 PCIe 插卡，适用于通用、智算服务器。DPU-CX7PT 网卡可广泛用于公有云、私有云、边缘云以及智算中心的云基础设施。在通用及在智算数据中心中， DPU-CX7PT 网卡供高性能 RDMA 网络能力，将 GPU 集群的算力发挥到极致。
 

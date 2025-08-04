@@ -30,8 +30,6 @@ order: 3
 
 ## 产品规格
 
-![layouts](image2.png "DPU-CX7PT"){:.ui.image}
-
 ### DPU-CX7PT 网卡
 
 ![layouts](10.jpg "DPU-CX7PT"){:.ui.image}

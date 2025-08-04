@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 英伟达 200G/400G一卡难求，国产上市平替
+title: 英伟达网卡一卡难求，国产平替上市
 description: DPU Smart NIC
 
 order: 3
 ---
-# {{ page.title }}
+# 英伟达网卡一卡难求，国产平替上市
 
 #### 在数据中心和AI计算场景中，英伟达的ConnectX-7网卡现在真的是一卡难求，而且也是价格不菲。
 

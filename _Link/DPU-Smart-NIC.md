@@ -34,18 +34,15 @@ order: 3
 
 ### DPU-CX7PT 网卡
 
-- 尺寸：半高半长
-- 网络接口：2x100GbE/2x200GbE
-- 主机接口：PCIe5.0X16
+![layouts](10.jpg "DPU-CX7PT"){:.ui.image}
 
 #### DPU-CX7PT 网卡支持 2x200G 网络接口，提供最大 400Gbps 网络吞吐量，时延<10us；支持 IPSEC/TLS，以及AES/SM4 算法和国密算法，大幅提升数据中心的安全性；支持高性能 RDMA，同时还开放了可编程拥塞控制算法平台，帮助客户根据业务类型设计和应用适合的拥塞控制算法，提升网络端到端可靠性。<br>DPU-CX7PT 网卡具有良好的兼容性，支持 Linux、CGSL、欧拉、龙蜥等操作系统，兼容 X86 及 ARM CPU。DPU-CX7PT 为标准 PCIe 插卡，适用于通用、智算服务器。DPU-CX7PT 网卡可广泛用于公有云、私有云、边缘云以及智算中心的云基础设施。在通用及在智算数据中心中， DPU-CX7PT 网卡供高性能 RDMA 网络能力，将 GPU 集群的算力发挥到极致。
 
 ## 关键性能
 
-|  <b>IO 接口</b> |  <b>网络</b> | <b>安全</b> | <b>RDMA</b>  |
-|----------|----------|----------|----------|
-| SRIOV 512VF/2PF<br>(2x200GE)  |  吞吐量 400G<br>时延<10us | IPSEC<br>TLS <br>国密 SM |  QP 数量 512K<br>RDMA 转发性能 100Mpps<br>时延<5us |
-{:.ui.collapsing.striped.table}
+![layouts](11.jpg "DPU-CX7PT"){:.ui.image}
+
+![layouts](12.jpg "DPU-CX7PT"){:.ui.image}
 
 ---
 
@@ -66,9 +63,3 @@ order: 3
 
 ---
 
-## 关键功能
-
-| <b>IO 功能</b> | <b>网络功能</b> | <b>RDMA</b> | <b>安全加速</b> | <b>HPC</b> | <b>运维管理</b> |
-|----------|----------|----------|----------|----------|----------|
-| ▪ SRIOV 1kVF /8PF<br>▪ PF/VF 的流量统计<br>▪ 网口 Bonding | ▪ Checksum 卸载<br>▪ Segmentation 卸载<br>▪ Vlan 卸载<br>▪ QinQ 卸载<br>▪ 数据包头修改卸载<br>▪ Jumbo Frame<br>▪ GSO/GRO<br>▪ RSS 卸载<br>▪ QoS/HQoS<br>▪ 基础带宽和最大带宽<br>▪ 队列动态可配<br>▪ 限速<br>▪ 1588 时钟<br>▪ 组播模式<br>▪ 混杂模式 | ▪ READ/WRITE/SEND<br>▪ SRQ<br>▪ 设备端口包数量及状态统计<br>▪ QP 状态追踪<br>▪ 通信模式 RC<br>▪ 通信模式 UD<br>▪ 重传方式 GO-BACK-N<br>▪ PFC<br>▪ ECN<br>▪ DCQCN<br>▪ 自定义 RTT 算法<br>▪ PCC<br>▪ QOS | ▪ ACL<br>▪ IPSEC 卸载<br>▪ TLS | ▪ GPU Direct RDMA<br>▪ GPU Direct Storage | ▪ 支持网卡自检<br>▪ 支持网卡固件升级<br>▪ 支持预启动执行环境（PXE） |
-{:.ui.collapsing.striped.table}

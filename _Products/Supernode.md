@@ -13,47 +13,46 @@ order: 1.2
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一类是高性能计算（HPC），它就像巅峰武林高手，擅长处理规模庞大、计算量巨大的任务，例如科研模拟、气象预测、药物研发等。它的特点是算力集中、性能极强，但门槛也相对较高。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二类是通用计算，更像遍布大街小巷的能工巧匠，应用范围极广，从日常办公到互联网服务、AI应用，都离不开它。虽然单个算力节点的威力可能不如高性能计算，但胜在灵活普及，能满足大多数日常需求。<br>
 
-![sample image](01.jpg "图示")<br>
+<img src="01.jpg" alt="图示" style="max-width: 100%; height: auto;">
 而在高性能计算的阵营里，有两位最具代表性的“高手”。<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一位是“超算”（超级计算机），它的强项是极限算力，可以在极短时间内完成海量数据的处理。无论是气候模拟、天体演算，还是新药分子结构分析，都需要它的支持。它代表了人类在计算能力上的极致追求。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另一位是“智算”（智能计算），它与人工智能的发展紧密相连。相比超算的“硬核算力”，智算更强调算力与算法的结合，特别适合深度学习、大模型训练等场景，正推动着AI技术快速演进。<br>
-![sample image](02.jpg "图示")<br>
+<img src="02.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;超算，就像一位经验深厚、声望极高的学者。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它以科学严谨著称，对计算的精度和可靠性要求极高。无论是气候预测、天体运行模拟，还是药物分子结构研究，都需要它提供极致的计算支持。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而它的“德高望重”体现在，其不仅拥有庞大的算力规模，还被广泛应用于国家战略级科研任务。<br>
-![sample image](03.jpg "图示")<br>
+<img src="03.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;智算，是近年来快速崛起的后起之秀。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它的特点是善于学习和模仿，尤其适合人工智能、大模型训练等任务。与“超算”不同，智算并不追求极高的计算精度，而是以低精度、大规模并行见长，这让它能够在图像识别、自然语言处理、自动驾驶等场景中表现出色。<br>
-![sample image](04.jpg "图示")<br>
+<img src="04.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;两位高手，一位立于“算力之巅”，一位行走在“算法之锋”。他们各自拥有独门绝技，长期并肩主导着高性能计算的舞台。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而，随着人工智能的兴起，整个计算格局被彻底搅动。客户的需求不再单一，而是越来越复杂：既要高精度运算的可靠性，又要大规模并行计算的灵活性。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这场风云变幻中，超算与智算都面临着新的挑战与机遇。<br>
 不久前，一位“豪门”客户在江湖上贴出了一份招贤榜：“我既要训练AI大模型，也要跑科学仿真，既要速度飞快，又要精度无误。”<br>
-![sample image](05.jpg "图示")<br>
+<img src="05.jpg " alt="图示" style="max-width: 100%; height: auto;">
 
 这份榜文一出，江湖沸腾。智算看到后，却不敢轻易接下。<br>
-因为它的强项在于快速处理、低精度计算，虽然能在AI训练中大显身手，却难以胜任科学仿真所需的严谨与高精度。<br>
-![sample image](06.jpg "图示")<br>
+<img src="06.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另一边，超算看到这份招贤榜时，也不禁皱起了眉头。它的强项在于高精度计算，能够保证结果的准确性。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而，一旦放到AI大模型的训练场景中，超算就显得笨重而昂贵。算是算得准，但成本太高、性价比偏低，难以支撑大规模应用。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最终，它也只能选择放手。<br>
-![sample image](07.jpg "图示")<br>
+<img src="07.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;放弃一次问题不大，但真正让人头疼的是——江湖上类似的「招贤榜」越来越多。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如今的需求，不再只是单一的大模型训练，而是多模态大模型、AI for Science、物理AI、工业仿真AI……每一个都像是新的门派考验，既庞杂，又苛刻，几乎没有哪一方能单独应对。<br>
-![sample image](08.jpg "图示")<br>
+<img src="08.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;遗憾的是，两位高手虽然各自名震江湖，却长期闭门修炼，守着本门的武功秘籍。他们之间鲜有交流，更谈不上联手比肩，去共同破解那些愈发复杂的难题。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于是，一边是高精度却成本高企的超算，一边是高效率却难以满足严谨要求的智算，各自为战，始终难以给出两全的答案。<br>
-![sample image](09.jpg "图示")<br>
+<img src="09.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 然而，江湖大势浩荡，门户之见终究挡不住。算力的格局，正在酝酿一场前所未有的重构。<br>某日，两位高手在燕山之巅意外相逢，交锋未起，却心生共鸣。<br>
-![sample image](10.jpg "图示")<br>
+<img src="10.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 <span><b>超智合流：从相逢到共行的难关</b></span><br> 超智融合，并不是把“超算+智算”简单拼在一起。它更像是一场自底向上的系统级改造，需要从最基础的芯片、计算架构，到存储与网络，再到调度、运维，直至平台与应用层，形成全链路的贯通。这是一种深度的“全方位融合”：
 {:.ui.info.message}
@@ -64,7 +63,7 @@ order: 1.2
 4. 基础设施的整合 —— 硬件、软件与网络资源协同高效运转。
 
 超智融合的核心，不在“拼接”，而在“重构”。 而这条融合之路，总计要翻越六道险关。<br>
-![sample image](11.jpg "图示")<br>
+<img src="11.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 > 第一险｜算力割裂，难兼全精度
 
@@ -74,7 +73,7 @@ order: 1.2
 3. AI推理 则极度追求性价比，甚至用 INT8/INT4 超低精度来压缩和加速。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而问题是，这些不同精度和架构往往分属不同系统，互不兼容。如何在同一个平台上兼顾高精度与低精度，就是融合算力面临的第一重挑战<br>
-![sample image](12.jpg "图示")<br>
+<img src="12.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 不同精度，对处理器的要求完全不同。CPU、GPU都难以做到“一芯通吃”，想兼顾所有需求几乎不可能。而要实现真正的融合，必须做到两点：<br>
 
@@ -82,7 +81,7 @@ order: 1.2
 2. 软件层面 —— 打通从高精度到低精度的全链路调度，让系统能根据应用场景自由切换。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这就意味着，融合算力并不是把几种芯片简单堆在一起，而是要在硬件协同与软件系统上同步突破。而这也是超智融合必须面对的第一道险关。
-![sample image](13.gif "图示")<br>
+<img src="13.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 > 第二险｜强弱不均，整体受限
 
@@ -92,85 +91,85 @@ order: 1.2
 2. 存储端：缓存速度如闪电，NVMe、HDD则慢得像蜗牛；
 3. 通信端：专用总线、PCIe、IB、RoCE各怀心思，难以合拍。
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这种情况导致的结果就是，强者拉不动弱者，速度快的要等待慢的，整体性能被拖累，系统始终难以保持平衡。<br>
-![sample image](14.jpg "图示")<br>
+<img src="14.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 > 第三险｜软件壁垒林立，难以协同
 
 当前算力领域的软件生态呈现割据状态，各自为阵，缺乏统一标准。<br>
-![sample image](15.jpg "图示")<br>
+<img src="15.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 > 第四险｜算法迭代频繁，难以统一
 
 过去并行计算的方法主要集中在张量并行和数据并行两类。<br>
-![sample image](16.gif "图示")<br>
+<img src="16.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 而如今，随着大模型训练规模和复杂度的不断提升，新的并行方式不断出现，流水线并行、专家并行等逐渐成为主流选择。<br>
-![sample image](17.gif "图示")<br>
+<img src="17.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 这些方法不仅提升了算力利用率，也对分布式算法的契合度提出了更高要求，只有实现高度匹配，才能保证训练过程高效稳定。<br>
 
 > 第五险丨功耗攀升，能源难支
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在AI训练进入大规模集群时代后，算力消耗已呈指数式上升。过去只需数百千瓦的能耗，如今动辄以兆瓦计，未来甚至可能突破到吉瓦级别。这不仅考验硬件的能效比，也对电力基础设施提出了极高要求。能耗压力，已成为算力发展的最大瓶颈之一。<br>
-![sample image](18.gif "图示")<br>
+<img src="18.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 > 第六险丨架构不稳，算力难持久
 
 在大模型训练中，任务往往需要持续数月才能完成。若系统中途宕机，Checkpoint无法成功保存，之前的计算成果就可能全部报废。由此可见，系统的稳定性已经成为能否突破算力困境的关键因素。<br>
-![sample image](19.png "图示")<br>
+<img src="19.png" alt="图示" style="max-width: 100%; height: auto;">
 
 至此，六道险关横亘眼前，超算与智算始终未能跨越。<br>
 
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此时，超算与智算两位高手想到了一位早已声名暗起的宗师。此人一向低调，但实力不容小觑。早年便打通超算与智算两脉内功，积累了丰富的实战经验。无论是在科研、工业还是气象等复杂场景中，他都能稳稳应对，曾凭一己之力突破层层险关，闯出一条融合之路。<br>
-![sample image](20.gif "图示")<br>
+<img src="20.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 这位被寄予厚望的宗师，正是璞钛科技的超节点解决方案。<br>
-![sample image](21.jpg "图示")<br>
+<img src="21.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 以此为根基，璞钛科技逐步构建起行业领先的超智融合算力平台。<br>
-![sample image](22.jpg "图示")<br>
+<img src="22.jpg" alt="图示" style="max-width: 100%; height: auto;">
 
 璞钛超节点纵向打通算力全栈四大层级：即资源层、平台层、服务层和应用层。<br>
-![sample image](23.gif "图示")<br>
+<img src="23.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 具体来看，璞钛超节点如何解六困、破六难？<br>
 
 <span><b>一破丨异构归一，主流架构全精度统御</b></span><br> 璞钛选择的并非小众路径，而是紧随主流方向，坚定走上 国产256核 ARM v9和自主112G大显存GPU的技术路线。这一架构既能顺畅兼容全球主流的 AI 与 HPC 软件生态，又可无缝承接国产化演进趋势。<br>在精度层面，一套系统即可覆盖双精度、单精度、半精度、整型以及混合精度的全谱需求，真正实现从科学计算到人工智能的全面支撑。
 {:.ui.info.message}
 
-![sample image](24.gif "图示")<br>
+<img src="24.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 <span><b>二破｜硬件失衡难题，存算传深度协同</b></span><br> 为了打破硬件割裂的瓶颈，璞钛着力修炼协同“内功”，让计算、存储、通信三大核心环节同频共振、紧密衔接。
 {:.ui.info.message}
 
-![sample image](25.png "图示")<br>
+<img src="25.png" alt="图示" style="max-width: 100%; height: auto;">
 
 最终实现真正的一体化协同——“硬件各异，却能同心发力”。在这种架构下，数据I/O效率最高可提升约20倍，GPU整体算力利用率也能提高30%–40%。<br>
-![sample image](26.gif "图示")<br>
+<img src="26.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 <span><b>三破｜补齐软件短板，全栈适配大模型</b></span><br> 璞钛以“算法—硬件协同”为核心心法，自研并打通完整的软件栈。从最底层的设备驱动、运行时、编译器，到中层的数学库、通信库、算子库，再到上层的编程接口与工具链，层层铺开，环环相扣。<br>这样的全栈布局，不仅覆盖主流大模型的训练与推理场景，也能兼顾传统HPC应用，实现“一套软件体系，兼修多门武功”。
 {:.ui.info.message}
 
-![sample image](27.gif "图示")<br>
+<img src="27.gif "图示")<br>
 更关键的是，璞钛并非独行，而是联合多家行业领先的AI“门派”，深度打通主流大模型的适配链路。从算法到算力，软硬贯通，协同优化，实现“一套体系，多门兼修”，最终做到了——全栈完备，算法无碍，算力随心。<br>
-![sample image](28.png "图示")<br>
+<img src="28.png" alt="图示" style="max-width: 100%; height: auto;">
 
 <span><b>四破｜并行之阵，调度融合驭大模型</b></span><br> 面对庞大集群的资源调度与复杂的运维管理，璞钛并未单打独斗，而是携手行业一流伙伴，共同修炼“调度大模型”之术。此法将传统依赖经验与直觉的调度模式彻底革新，让算力分配与任务编排不再“拍脑袋”，而是基于数据与智能模型进行科学推演。
 {:.ui.info.message}
 
-![sample image](29.gif "图示")<br>
+<img src="29.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 <span><b>五破｜电力能耗之限，液冷神功，节能术深</b></span><br> 璞钛超节点修得璞钛独门“功耗轻功”，外修液冷玄法，内练能源动态优化之术，实现高密部署、精准控电，能耗削减高达30%，PUE低至1.04
 {:.ui.info.message}
 
-![sample image](30.gif "图示")<br>
+<img src="30.gif" alt="图示" style="max-width: 100%; height: auto;">
 
 <span><b>六破｜稳定之痛，全生命周期服务</b></span><br> 璞钛修炼的，不仅是算力“硬功夫”，更是服务“护体真气”。从安装调试，到实时监测与智能运维；从故障闭环处理，到可视化运维平台；再到系统瓶颈分析与能耗优化，皆有完备功法。
 {:.ui.info.message}
 
-![sample image](31.png "图示")<br>
+<img src="31.png" alt="图示" style="max-width: 100%; height: auto;">
 
 如今，璞钛为用户奉上一套可定制、一站式、全程相伴的顶级专业服务，让超智融合平台不仅强于性能，更胜在长久稳定。<br>
-![sample image](32.png "图示")<br>
+<img src="32.png" alt="图示" style="max-width: 100%; height: auto;">
